@@ -1,50 +1,56 @@
-# Business Analytics Nanodegree Projects
 This repository contains all the projects I completed for Business Analytics Nanodegree provided by Udacity.
 
-# Business Analytics Nanodegree Projects
+# Business Analytics Nanodegree 
+This is a course on - `"Business Analytics Nanodegree` at `Udacity` learning platform.
+More details on the Nanodegree and the project can be accessed using this [Link on Business Analytics](https://www.udacity.com/course/business-analytics-nanodegree--nd098).
 
-## About
+## The Aim of the course:
+To learn foundational data skills that apply across functions and industries. Learn to analyze data and build models with Excel, query databases using SQL, and create informative data visualizations with Tableau. Gain foundational data skills applicable to any industry. Collect and analyze data, model business scenarios, and communicate your findings with SQL, Excel, and Tableau.
 
-This repository contains the projects I completed, to earn the "Business Analytics Nanodegree". 
+Created in collaboration with industry experts:
++ [Tableau Software](https://www.tableau.com/)
++ [Mode Analytics](https://mode.com/)
 
-You can check my Nanodegree [here](https://confirm.udacity.com/NRQT5M5J).
-And [here](https://www.udacity.com/course/predictive-analytics-for-business-nanodegree--nd008) is Udacity's page about the Nanodegree.
+## Program Curriculam:
++ **WELCOME TO THE PROGRAM**
+Meet your instructors and learn how to optimize your classroom. Learn how people use data to answer questions, and find your own insights from a data dashboard.
+**Project 1:** [`Interpret Data Visualization`](https://github.com/vamshi-krishna-prime/Business_Analytics/tree/master/Interpret%20a%20Data%20Visualization) 
 
-### Part 1: [Problem Solving with Analytics](https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976)
-Learn a scientific approach to solving problems with data, a foundational skill for anyone interested in making data driven decisions in a business context.
+  > In this project, you’ll explore an interactive data dashboard to uncover insights. You’ll write a short report explaining each insight, and how you found the information to reach your conclusion from the dashboard.
 
-- Project: [Predicting Diamond Prices](https://github.com/eleninistikaki/Business-Analytics-Nanodegree/blob/master/Predicting%20Diamond%20Prices.pdf)
-- Project: [Predicting Catalog Demand](https://github.com/eleninistikaki/Business-Analytics-Nanodegree/blob/master/Predicting%20Catalog%20Demand.pdf)
++ **INTRODUCTION TO DATA**
+Learn how to use statistics and visuals to find and communicate insights. Develop Excel skills to manipulate, analyze, and visualize data in a spreadsheet. Build Excel models to analyze possible business outcomes.
+**Project 2:** `Analyze NYSE Data`
+  > In this project, you'll use statistics and spreadsheet programs like Excel to analyze data from over 500 companies on the New York Stock Exchange. You'll also forecast financial metrics based on three possible scenarios for a company of your choice from the NYSE dataset.
 
-### Part 2: [Data Wrangling](https://www.udacity.com/course/sql-for-data-analysis--ud198)
-Understand the most common data types. Understand the various sources of data. Make adjustments to dirty data to prepare a dataset. Identify and adjust for outliers. Learn to write queries to extract and analyze data from a relational database.
++ **SQL for DATA ANALYSIS**
+Learn to use Structured Query Language (SQL) to extract and analyze data stored in databases.
+**Project 3:** `Query a Digital Music Store Database`
+  > In this project, you will query a digital music store database which holds information regarding the store’s media, employees, and customers. You will use the database to help the store gain an understanding of the types of music that are purchased, where customers live, and how the company might optimize their business practices.
 
-- Project: [Create an Analytical Dataset](https://github.com/eleninistikaki/Business-Analytics-Nanodegree/blob/master/Create%20an%20Analytical%20Dataset.pdf)
-- Project: [Create Reports from a Database](https://github.com/eleninistikaki/Business-Analytics-Nanodegree/blob/master/Create%20Reports%20from%20a%20Database.pdf)
++ **DATA VISUALIZATION**
+Learn to apply design and visualization principles to create impactful data visualizations, build data dashboards, and tell stories with data.
+**Project 4:** `Build Data Dashboards`
+  > In this project, you’ll build interactive dashboards with Tableau and use them to discover and communicate insights from data. You’ll use a dataset of flight delays in the US to visualize the quality of airlines and airports, find the best times to fly, and more.
 
-### Part 3: [Data Visualization](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)
-Learn the fundamentals of data visualization and practice communicating with data.
+## Instructors:
++ **Josh Bernhard** - DATA SCIENTIST AT NERD WALLET
+Josh has been sharing his passion for data for nearly a decade at all levels of university, and as Lead Data Science Instructor at Galvanize. He's used data science for work ranging from cancer research to process automation.
++ **Dana Sheahan** - CONTENT DEVELOPER
+Dana is an electrical engineer with a Masters in Computer Science from Georgia Tech. Her work experience includes software development for embedded systems in the Automotive Group at Motorola, where she was awarded a patent for an onboard operating system.
++ **Mat Leonard** - INSTRUCTOR
+Mat is a former physicist, research neuroscientist, and data scientist. He did his PhD and Postdoctoral Fellowship at the University of California, Berkeley.
++ **Derek Steer** - CEO AT MODE
+Derek is the CEO of Mode Analytics. He developed an analytical foundation at Facebook and Yammer and is passionate about sharing it with future analysts. He authored SQL School and is a mentor at Insight Data Science.
++ **Sam Nelson** - PRODUCT LEAD
+Sam is the Product Lead for Udacity’s Data Analyst, Business Analyst, and Data Foundations programs. He’s worked as an analytics consultant on projects in several industries, and is passionate about helping others improve their data
 
-- Project: [Visualize Movie Data](https://github.com/eleninistikaki/Business-Analytics-Nanodegree/blob/master/Visualize%20Movie%20Data.pdf)
+## Technologies Used:
 
-### Part 4: [Classification Models](https://www.udacity.com/course/classification-models--ud978)
-You will use classification models, such as logistic regression, decision tree, forest, and boosted, to make predictions of binary and non-binary outcomes.
++ [Tableau](https://www.tableau.com/)
++ SQL
++ EXCEL
 
-- Project: [Predicting Default Risk](https://github.com/eleninistikaki/Business-Analytics-Nanodegree/blob/master/Predicting%20Default%20Risk.pdf)
+## Acknowledgement:
 
-### Part 5: [A/B Testing](https://www.udacity.com/course/ab-testing--ud257)
-Understand the fundamentals of A/B testing, including experimental design, variable selection, and analyzing and interpreting results.
-
-- Project: [A/B Test a New Menu Launch](https://github.com/eleninistikaki/Business-Analytics-Nanodegree/blob/master/AB%20Test%20a%20New%20Menu%20Launch.pdf)
-
-### Part 6: [Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980)
-Understand trend, seasonal, and cyclical behavior of time series data. Use time series decomposition plots. Build ETS and ARIMA models.
-
-- Project: [Forecast Video Game Demand](https://github.com/eleninistikaki/Business-Analytics-Nanodegree/blob/master/Forecast%20Video%20Game%20Demand.pdf)
-
-### Part 7: [Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)
-Understand the difference between localization, standardization, and segmentation. Scale data to prepare a dataset for cluster modeling. Use principal components analysis (PCA) to reduce the number of variables for cluster model. Build and apply a k-centroid cluster model. Visualize and communicate the results of a cluster model.
-
-- Project: [Combining Predictive Techniques](https://github.com/eleninistikaki/Business-Analytics-Nanodegree/blob/master/Combining%20Predictive%20Techniques.pdf)
-
-![Udacity Business Analyst Nanodegree](https://github.com/eleninistikaki/Business-Analytics-Nanodegree/blob/master/certification.svg)
+Thanks to the [Udacity](https://www.udacity.com/) platform for providing the [Business Analytics Nanodegree](https://www.udacity.com/course/business-analytics-nanodegree--nd098) program.
